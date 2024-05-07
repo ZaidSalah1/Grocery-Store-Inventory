@@ -1,4 +1,4 @@
-Grocery Store Inventory
+#Grocery Store Inventory
 The JavaFX Grocery Store Inventory Management project is a desktop application developed using JavaFX, a rich set of graphics and media libraries provided by Java. This project aims to provide an intuitive and efficient solution for managing inventory in a grocery store.
 
 The GUI includes several screens:
