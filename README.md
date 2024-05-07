@@ -11,4 +11,5 @@ Stock Report Screen: Provides options for generating stock reports, including ex
 Modify Screen: Enables users to update existing items in the inventory. It includes options for selecting brand or non-brand items, search functionality, and displays messages regarding the update status.
 
 Delete Screen: Allows users to delete items from the inventory, with options for selecting brand or non-brand items. Messages indicating the deletion status are displayed.
-![alt text](file:///C:/Users/zaid7/OneDrive/سطح%20المكتب/1.PNG)
+
+![1](https://github.com/zaidsalah123er/Grocery-Store-Inventory/assets/89332179/2db190ba-5e77-4b43-b5d5-e53ec8913e5b)
